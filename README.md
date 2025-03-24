@@ -9,3 +9,11 @@ A simple utility to select the desired monitors to be part of the rdp experience
 #### Saves you from the hassle of
 1. Checking the coordinates of you monitors using MSTSC /l whenever windows feels like re assigning 'Mstsc IDs' to your monitors.
 2. Having to manually edit RDP files.
+
+#### Usage
+- Get the repo and compile it the way you want
+
+or
+
+- Download the precompiled C# program (does not include Dotnet 8.0):
+[Download RDPMonitor Selector V1](https://github.com/hellrazorx64/RDPmonitorselector/blob/main/bin/Release/smaller/RdpMonitorSelector.exe) 
