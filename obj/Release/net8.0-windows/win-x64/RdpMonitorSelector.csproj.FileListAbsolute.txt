@@ -1,0 +1,14 @@
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\net8.0-windows\win-x64\RdpMonitorSelector.exe
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\net8.0-windows\win-x64\RdpMonitorSelector.deps.json
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\net8.0-windows\win-x64\RdpMonitorSelector.runtimeconfig.json
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\net8.0-windows\win-x64\RdpMonitorSelector.dll
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\net8.0-windows\win-x64\RdpMonitorSelector.pdb
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.AssemblyInfoInputs.cache
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.AssemblyInfo.cs
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.csproj.CoreCompileInputs.cache
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.dll
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\refint\RdpMonitorSelector.dll
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.pdb
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\RdpMonitorSelector.genruntimeconfig.cache
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\obj\Release\net8.0-windows\win-x64\ref\RdpMonitorSelector.dll

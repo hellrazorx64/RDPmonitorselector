@@ -1,0 +1,2 @@
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\smaller\RdpMonitorSelector.pdb
+C:\Users\Hellrazo\Remote screen selector\RdpMonitorSelector\bin\Release\smaller\RdpMonitorSelector.exe

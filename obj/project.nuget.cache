@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5obJ7WRiras8iLjrSEmdOacUJyae7G20rXAr3GL3XLaFZhdoHRZgRO/Qz5JVvrLjaL3Tw4tiduKj8Iay9fIJ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hellrazo\\Remote screen selector\\RdpMonitorSelector\\RdpMonitorSelector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hellrazo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
