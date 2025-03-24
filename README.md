@@ -16,4 +16,4 @@ A simple utility to select the desired monitors to be part of the rdp experience
 or
 
 - Download the precompiled C# program (does not include Dotnet 8.0):
-[Download RDPMonitor Selector V1](https://github.com/hellrazorx64/RDPmonitorselector/blob/main/bin/Release/smaller/RdpMonitorSelector.exe) 
+[Download RDPMonitor Selector V1]([https://github.com/hellrazorx64/RDPmonitorselector/blob/main/bin/Release/smaller/RdpMonitorSelector.exe)](https://github.com/hellrazorx64/RDPmonitorselector/releases/download/RDP/RdpMonitorSelector.exe) 
